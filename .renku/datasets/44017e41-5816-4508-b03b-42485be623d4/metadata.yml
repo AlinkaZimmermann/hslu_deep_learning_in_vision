@@ -1,0 +1,65 @@
+- '@id': https://renkulab.io/datasets/44017e41-5816-4508-b03b-42485be623d4
+  '@type':
+  - http://purl.org/wf4ever/wfprov#Artifact
+  - http://schema.org/Dataset
+  - http://www.w3.org/ns/prov#Entity
+  http://schema.org/alternateName:
+  - '@value': CIFAR-10
+  http://schema.org/creator:
+  - '@id': mailto:simon.vanhemert@hslu.ch
+  http://schema.org/dateCreated:
+  - '@value': '2020-11-18T13:27:49.965495+00:00'
+  http://schema.org/hasPart: []
+  http://schema.org/identifier:
+  - '@value': 44017e41-5816-4508-b03b-42485be623d4
+  http://schema.org/isPartOf:
+  - '@id': https://renkulab.io/projects/simon.vanhemert/hslu-deep-learning
+  http://schema.org/keywords: []
+  http://schema.org/name:
+  - '@value': CIFAR-10
+  http://schema.org/subjectOf: []
+  http://schema.org/url:
+  - '@value': https://renkulab.io/datasets/44017e41-5816-4508-b03b-42485be623d4
+  http://www.w3.org/2000/01/rdf-schema#label:
+  - '@value': 44017e41-5816-4508-b03b-42485be623d4
+  http://www.w3.org/ns/prov#atLocation:
+  - '@value': .renku/datasets/44017e41-5816-4508-b03b-42485be623d4
+- '@id': https://renkulab.io/projects/simon.vanhemert/hslu-deep-learning
+  '@type':
+  - http://schema.org/Project
+  - http://www.w3.org/ns/prov#Location
+  http://schema.org/agent:
+  - '@value': 0.12.0
+  http://schema.org/creator:
+  - '@id': mailto:simon.vanhemert@hslu.ch
+  http://schema.org/dateCreated:
+  - '@value': '2020-11-13T10:55:14.518329+00:00'
+  http://schema.org/name:
+  - '@value': HSLU deep Learning
+  http://schema.org/schemaVersion:
+  - '@value': '8'
+  https://swissdatasciencecenter.github.io/renku-ontology#automatedTemplateUpdate:
+  - '@value': false
+  https://swissdatasciencecenter.github.io/renku-ontology#immutableTemplateFiles: []
+  https://swissdatasciencecenter.github.io/renku-ontology#templateId:
+  - '@value': python-minimal
+  https://swissdatasciencecenter.github.io/renku-ontology#templateMetadata:
+  - '@value': '{"__template_source__": "https://github.com/SwissDataScienceCenter/renku-project-template",
+      "__template_ref__": "0.1.13", "__template_id__": "python-minimal", "__namespace__":
+      "simon.vanhemert", "__automated_update__": true, "__repository__": "https://renkulab.io/gitlab",
+      "__sanitized_project_name__": "hslu-deep-learning", "__project_slug__": "simon.vanhemert/hslu-deep-learning",
+      "description": "", "name": "HSLU deep Learning"}'
+  https://swissdatasciencecenter.github.io/renku-ontology#templateReference:
+  - '@value': 0.1.13
+  https://swissdatasciencecenter.github.io/renku-ontology#templateSource:
+  - '@value': https://github.com/SwissDataScienceCenter/renku-project-template
+- '@id': mailto:simon.vanhemert@hslu.ch
+  '@type':
+  - http://schema.org/Person
+  - http://www.w3.org/ns/prov#Person
+  http://schema.org/email:
+  - '@value': simon.vanhemert@hslu.ch
+  http://schema.org/name:
+  - '@value': Simon van Hemert
+  http://www.w3.org/2000/01/rdf-schema#label:
+  - '@value': Simon van Hemert
