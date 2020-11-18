@@ -1,4 +1,30 @@
-- '@id': https://renkulab.io/datasets/44017e41-5816-4508-b03b-42485be623d4
+- '@id': https://localhost/urls/%2F%2Frenkulab.io%2Fdatasets%2F44017e41-5816-4508-b03b-42485be623d4
+  '@type':
+  - http://schema.org/URL
+  http://schema.org/url:
+  - '@id': https://renkulab.io/datasets/44017e41-5816-4508-b03b-42485be623d4
+- '@id': https://renkulab.io/blob/0ae577dcb3c0d9ca4e6a7f95000418925fd24f59/data/CIFAR-10/cifar-10-python.tar.gz
+  '@type':
+  - http://purl.org/wf4ever/wfprov#Artifact
+  - http://schema.org/DigitalDocument
+  - http://www.w3.org/ns/prov#Entity
+  http://schema.org/dateCreated:
+  - '@value': '2020-11-18T13:31:22.457195+00:00'
+  http://schema.org/isPartOf:
+  - '@id': https://renkulab.io/projects/simon.vanhemert/hslu-deep-learning
+  http://schema.org/name:
+  - '@value': cifar-10-python.tar.gz
+  http://schema.org/url:
+  - '@value': https://renkulab.io/projects/simon.vanhemert/hslu-deep-learning/files/blob/data/CIFAR-10/cifar-10-python.tar.gz
+  http://www.w3.org/2000/01/rdf-schema#label:
+  - '@value': data/CIFAR-10/cifar-10-python.tar.gz@0ae577dcb3c0d9ca4e6a7f95000418925fd24f59
+  http://www.w3.org/ns/prov#atLocation:
+  - '@value': data/CIFAR-10/cifar-10-python.tar.gz
+  https://swissdatasciencecenter.github.io/renku-ontology#external:
+  - '@value': false
+  https://swissdatasciencecenter.github.io/renku-ontology#source:
+  - '@value': https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+- '@id': https://renkulab.io/datasets/be32cdab-28ce-4f68-9292-a3bb3bdeeed4
   '@type':
   - http://purl.org/wf4ever/wfprov#Artifact
   - http://schema.org/Dataset
@@ -8,10 +34,11 @@
   http://schema.org/creator:
   - '@id': mailto:simon.vanhemert@hslu.ch
   http://schema.org/dateCreated:
-  - '@value': '2020-11-18T13:27:49.965495+00:00'
-  http://schema.org/hasPart: []
+  - '@value': '2020-11-18T13:31:22.466823+00:00'
+  http://schema.org/hasPart:
+  - '@id': https://renkulab.io/blob/0ae577dcb3c0d9ca4e6a7f95000418925fd24f59/data/CIFAR-10/cifar-10-python.tar.gz
   http://schema.org/identifier:
-  - '@value': 44017e41-5816-4508-b03b-42485be623d4
+  - '@value': be32cdab-28ce-4f68-9292-a3bb3bdeeed4
   http://schema.org/isPartOf:
   - '@id': https://renkulab.io/projects/simon.vanhemert/hslu-deep-learning
   http://schema.org/keywords: []
@@ -19,11 +46,13 @@
   - '@value': CIFAR-10
   http://schema.org/subjectOf: []
   http://schema.org/url:
-  - '@value': https://renkulab.io/datasets/44017e41-5816-4508-b03b-42485be623d4
+  - '@value': https://renkulab.io/datasets/be32cdab-28ce-4f68-9292-a3bb3bdeeed4
   http://www.w3.org/2000/01/rdf-schema#label:
-  - '@value': 44017e41-5816-4508-b03b-42485be623d4
+  - '@value': be32cdab-28ce-4f68-9292-a3bb3bdeeed4
   http://www.w3.org/ns/prov#atLocation:
   - '@value': .renku/datasets/44017e41-5816-4508-b03b-42485be623d4
+  http://www.w3.org/ns/prov#wasDerivedFrom:
+  - '@id': https://localhost/urls/%2F%2Frenkulab.io%2Fdatasets%2F44017e41-5816-4508-b03b-42485be623d4
 - '@id': https://renkulab.io/projects/simon.vanhemert/hslu-deep-learning
   '@type':
   - http://schema.org/Project
