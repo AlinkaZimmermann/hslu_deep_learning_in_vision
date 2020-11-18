@@ -19,12 +19,10 @@ http://schema.org/schemaVersion: '8'
 https://swissdatasciencecenter.github.io/renku-ontology#automatedTemplateUpdate: false
 https://swissdatasciencecenter.github.io/renku-ontology#immutableTemplateFiles: []
 https://swissdatasciencecenter.github.io/renku-ontology#templateId: python-minimal
-https://swissdatasciencecenter.github.io/renku-ontology#templateMetadata: '{"__template_source__":
-  "https://github.com/SwissDataScienceCenter/renku-project-template", "__template_ref__":
-  "0.1.13", "__template_id__": "python-minimal", "__namespace__": "simon.vanhemert",
-  "__automated_update__": true, "__repository__": "https://renkulab.io/gitlab", "__sanitized_project_name__":
-  "hslu-deep-learning", "__project_slug__": "simon.vanhemert/hslu-deep-learning",
-  "description": "", "name": "HSLU deep Learning"}'
-https://swissdatasciencecenter.github.io/renku-ontology#templateReference: 0.1.13
-https://swissdatasciencecenter.github.io/renku-ontology#templateSource: https://github.com/SwissDataScienceCenter/renku-project-template
-https://swissdatasciencecenter.github.io/renku-ontology#templateVersion: null
+https://swissdatasciencecenter.github.io/renku-ontology#templateMetadata: '{"description":
+  "Deep learning project at Renkulab", "__template_source__": "renku", "__template_ref__":
+  "master", "__template_id__": "python-minimal", "__namespace__": "", "__sanitized_project_name__":
+  "", "__repository__": "", "__project_slug__": "", "name": "hslu-deep-learning"}'
+https://swissdatasciencecenter.github.io/renku-ontology#templateReference: master
+https://swissdatasciencecenter.github.io/renku-ontology#templateSource: renku
+https://swissdatasciencecenter.github.io/renku-ontology#templateVersion: 0.12.0

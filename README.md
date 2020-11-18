@@ -1,4 +1,6 @@
-# HSLU deep Learning
+# hslu-deep-learning
+
+Deep learning project at Renkulab
 
 ## Introduction
 
