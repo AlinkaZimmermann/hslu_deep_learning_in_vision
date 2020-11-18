@@ -1,8 +1,8 @@
-'@id': https://localhost/projects/simon.vanhemert/HSLU%20deep%20Learning
+'@id': https://renkulab.io/projects/simon.vanhemert/hslu-deep-learning
 '@type':
 - http://schema.org/Project
 - http://www.w3.org/ns/prov#Location
-http://schema.org/agent: 0.12.1.dev0+dirty
+http://schema.org/agent: 0.12.0
 http://schema.org/creator:
   '@id': mailto:simon.vanhemert@hslu.ch
   '@type':
